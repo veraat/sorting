@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  color: white;
+}
+.name {
+  margin: 10px;
+  font-size: 15px;
+  font-weight: bold;
+}
+#SB {
+  display: none;
+  margin: 20px;
+  font-size: 15px;
+}
+#Submit {
+  margin: 20px;
+  font-size: 15px;
+}
+#namec {
+  font-size: 25px;
+  color: white;
+}
+button {
+  height: 30px;
+  width: 75px;
+}
